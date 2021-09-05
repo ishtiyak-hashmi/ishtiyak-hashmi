@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishtiyak-hashmi
-- 👀 I’m interested in Playing Volly-bolls and travelling.
+- 👀 Apart from Coding, I’m interested in Playing Volly-bolls and travelling.
 - 🌱 I’m currently learning Data science at Edyoda University.
 - 💞️ I’m looking to collaborate with whom I can learn industry relevant skills.
 - 📫 How to reach me ishtiyakhashmi@gmail.com
